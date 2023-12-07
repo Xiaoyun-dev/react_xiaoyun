@@ -1,3 +1,9 @@
+# Overview of this project
+This is a personal website/blog. It is built on ReactJS. Currently the data are stored in db.json file which is running on port 8000. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
