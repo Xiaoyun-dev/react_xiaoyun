@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Welcome to my first blog!\nHope you have fun!",
+      "author": "Xiaoyun",
+      "id": 1
+    },
+    {
+      "title": "Two cats",
+      "body": "My first cat is Max.\n My second cat is Minnie.\n They are 10-month apart",
+      "author": "Xiaoyun",
+      "id": 2
+    },
+    {
+      "title": "My last week on CODELancashire",
+      "body": "Testing if I could submit this new blog to JSON database and show it on the Blogs page. ",
+      "author": "Xiaoyun",
+      "id": 3
+    },
+    {
+      "title": "Testing if a new added blog renders images ",
+      "body": "Is there going to be an image of Max and Minnie? ",
+      "author": "Xiaoyun",
+      "id": 5
+    }
+  ]
+}
